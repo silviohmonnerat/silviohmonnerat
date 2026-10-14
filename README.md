@@ -18,7 +18,7 @@ I believe in combining solid software engineering principles with AI-driven inno
 - ⚡ Experienced with **TypeScript, JavaScript, React, Next.js, React Native, Node.js, PHP, and Laravel**
 - 📱 Building cross-platform mobile applications for **iOS and Android**
 - 🏗️ Interested in **Software Architecture, API Design, Clean Code, and Scalable Systems**
-- 🤖 Exploring **AI-First Development, LLMs, AI Agents, and Intelligent Automation**
+- 🤖 Exploring **AI-First Development, RAGs, LLMs, AI Agents, and Intelligent Automation**
 - 🎓 Graduated in **Systems Analysis**
 - 📚 Currently pursuing postgraduate studies in **Applied AI Engineering**
 - 🌎 Based in **Brazil**
